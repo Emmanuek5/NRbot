@@ -2,5 +2,5 @@
 	"ip":"emmanuuelserver123.aternos.me",
 	"port": "25565",
 	"name": "joshuabot123",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
