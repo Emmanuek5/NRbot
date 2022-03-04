@@ -2,5 +2,5 @@
 	"ip":"rtis-server.ml",
 	"port": "18474",
 	"name": "joshuabot123",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
