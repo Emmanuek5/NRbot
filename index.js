@@ -15,6 +15,7 @@ var host = data["ip"];
 var username = data["name"]
 var nightskip = data["auto-night-skip"]
 var bot = mineflayer.createBot({
+	
   host: host,
   username: username
 });
