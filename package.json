@@ -12,6 +12,8 @@
     "config": "^3.3.3",
     "fs": "0.0.1-security",
     "mineflayer": "^2.37.1",
+     "ejs": "^3.1.6",
+    "express": "^4.17.3",
     "mineflayer-blockfinder": "0.0.7",
     "mineflayer-cmd": "^1.0.2"
   }
