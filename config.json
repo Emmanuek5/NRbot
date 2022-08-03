@@ -1,5 +1,5 @@
 {
-	"ip":"rtis-server.ml",
+	"ip":"mc.rtis-server.ml",
 	"port": "18474",
 	"name": "herokubot80",
 	"auto-night-skip":"false"
