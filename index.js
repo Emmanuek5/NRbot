@@ -100,6 +100,6 @@ app.set("view-engine", "ejs")
 app.get("/", (req, res) => {
   res.render("app.ejs")
 })
-app.listen( 3001, '0.0.0.0', () => {
+app.listen(process.env.PORT || 3001, '0.0.0.0', () => {
   console.log("Server is running.");
 });
